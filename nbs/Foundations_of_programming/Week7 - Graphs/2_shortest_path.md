@@ -1,0 +1,5 @@
+# Dijikstra
+
+# Kruskal
+
+# Prims
