@@ -8,7 +8,7 @@
 - Data Conversions
 - Execution Control
 - Functions
-- Data Science Libraries
+- ![Data Science Libraries](https://colab.research.google.com/github/innosential/eiba-ai-content/blob/main/nbs/Foundations_of_programming/Week1%20-%20Python%20Refresher/9_Libraries.ipynb)
 - Functional Programming
 - Lazy Evaluation
 - Pattern Matching
